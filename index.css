@@ -83,3 +83,18 @@ footer {
 
 
 }
+@media only screen and(max-width:768px) { body
+    {background-color: lightblue;}
+    img#hero{
+        width: 768px;}
+        img#hero2{
+            width: 768pxpx;
+        }
+        img{
+            width: 768px
+        }
+        footer{
+            width: 768px;
+        }
+        
+    }
